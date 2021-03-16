@@ -10,10 +10,10 @@ Dockerfile can be found on [this](https://github.com/dedo1911/docker-msbuild/tre
 
 ## MSBuild
 
-MSBuild is located at `C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\MSBuild\Current\Bin\MSBuild.exe`.
+MSBuild is located at `C:\BuildTools\MSBuild\BuildTools\MSBuild\Current\Bin\MSBuild.exe`.
 
 ```
-C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\MSBuild\15.0\Bin>MSBuild.exe /version
+C:\BuildTools\MSBuild\BuildTools\MSBuild\Current\Bin>MSBuild.exe /version
 Microsoft (R) Build Engine version 16.9.0+57a23d249 for .NET Framework
 Copyright (C) Microsoft Corporation. All rights reserved.
 
